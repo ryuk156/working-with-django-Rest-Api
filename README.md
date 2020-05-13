@@ -2,4 +2,4 @@
 
 cd into folder 
 
-run python manage.py runserver
+Run python manage.py runserver
